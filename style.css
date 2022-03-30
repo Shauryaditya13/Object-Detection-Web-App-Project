@@ -1,0 +1,61 @@
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+.bg_background {
+    background-image: url("Background Image.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.anchor1 {
+    background-color: aqua;
+    text-align: center;
+    color: brown;
+    border-radius: 60px;
+    border: 60px yellow solid;
+    border-width: 10px;
+    font-size: 20px;
+}
+
+.anchor2 {
+    background-color: blue;
+    text-align: center;
+    color: firebrick;
+    border-radius: 60px;
+    border: 60px gold solid;
+    border-width: 10px;
+    font-size: 20px;
+}
+
+.anchor3 {
+    background-color: midnightblue;
+    text-align: center;
+    color: crimson;
+    border-radius: 60px;
+    border: 60px burlywood solid;
+    border-width: 10px;
+    font-size: 20px;
+}
+
+.anchor4 {
+    background-color: royalblue;
+    text-align: center;
+    color: darkred;
+    border-radius: 60px;
+    border: 60px goldenrod solid;
+    border-width: 10px;
+    font-size: 20px;
+}
+
+.anchor5 {
+    background-color: cyan;
+    text-align: center;
+    color:maroon;
+    border-radius: 60px;
+    border: 60px khaki solid;
+    border-width: 10px;
+    font-size: 20px;
+}
